@@ -1,6 +1,7 @@
 import { setChonkyDefaults } from 'chonky';
 import { ChonkyIconFA } from 'chonky-icon-fontawesome';
 import { FullFileBrowser } from 'chonky';
+//@import '~antd/dist/antd.css';
 
 setChonkyDefaults({ iconComponent: ChonkyIconFA });
 
